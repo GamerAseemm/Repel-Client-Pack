@@ -1,6 +1,6 @@
 {
     "packs": [
-      {"id": 1, "name": "Wube Fault", "downloadUrl": "https://github.com/GamerAseemm/Repel-Client-Pack/raw/main/WubeFault-main.zip", "thumbnailUrl": "https://raw.githubusercontent.com/GamerAseemm/Repel-Client-Pack/main/wube-fault.png"},
+      {"id": 1, "name": "Wube Fault", "downloadUrl": "https://github.com/GamerAseemm/Repel-Client-Pack/raw/main/WubeFault-main.zip", "thumbnailUrl": "https://github.com/GamerAseemm/Repel-Client-Pack/blob/main/astral.png"},
       {"id": 2, "name": "Astral (16x)", "downloadUrl": "https://github.com/GamerAseemm/Repel-Client-Pack/raw/main/astral.zip", "thumbnailUrl":"https://raw.githubusercontent.com/GamerAseemm/Repel-Client-Pack/main/astral.png"},
       {"id": 3, "name": "ShantV4 Revamp 16x", "downloadUrl": "https://github.com/GamerAseemm/Repel-Client-Pack/raw/main/shantv4.zip", "thumbnailUrl":"https://pvprp.com/assets/profiles/7638/pfp.png"},
       {"id": 4, "name": "Glimmer 16x", "downloadUrl": "https://github.com/GamerAseemm/Repel-Client-Pack/raw/main/glimmer.zip    ", "thumbnailUrl":"https://pvprp.com/assets/profiles/53379/pfp.png"},
